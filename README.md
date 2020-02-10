@@ -1,4 +1,4 @@
-# vue-jest-bable7
+# vue-jest-babel7
 
 forked from [vuejs/vue-jest](https://github.com/vuejs/vue-jest)
 
