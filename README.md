@@ -1,4 +1,10 @@
-# vue-jest
+# vue-jest-bable7
+
+forked from [vuejs/vue-jest](https://github.com/vuejs/vue-jest)
+
+## Changed
+修改 babel-core 为 @bebel/core。其余无改动
+
 
 Jest Vue transformer with source map support
 
@@ -20,6 +26,7 @@ To define `vue-jest` as a transformer for your `.vue` files, map them to the `vu
     "transform": {
       "^.+\\.vue$": "vue-jest"
     }
+  }
 }
 ```
 
